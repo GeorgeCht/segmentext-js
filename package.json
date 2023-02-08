@@ -22,5 +22,12 @@
     "seo"
   ],
   "author": "GeorgeCht",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgeCht/segmentext-js/issues"
+  },
+  "homepage": "https://github.com/GeorgeCht/segmentext-js#readme",
+  "scripts": {
+    "test": "test"
+  }
 }
