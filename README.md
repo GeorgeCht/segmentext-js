@@ -12,5 +12,5 @@ Segmentext JS is a JavaScript lightweight library that enables easy and SEO-frie
 Install and import it as a [module](https://www.npmjs.com/package/segmentext-js)
 
 ```sh
-$ npm install split-text-js
+$ npm install segmentext-js
 ```
